@@ -9,7 +9,7 @@ sap.ui.define([
 
         onPress: function() {
 
-            MessageToast.show("Custom Button Pressed");
+            MessageToast.show("Custom Button Clicked");
 
         }
 
